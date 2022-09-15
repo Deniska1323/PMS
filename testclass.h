@@ -10,7 +10,7 @@ class TestClass : public QObject
 
 public:
     TestClass();
-private:
+private slots:
 
     void test_max();
     void test_min();
