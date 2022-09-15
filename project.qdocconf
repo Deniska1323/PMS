@@ -1,0 +1,18 @@
+#include(compat.qdocconf)
+#include(fileextensions.qdocconf)
+# where your source files are (here it's just the root directory)
+sourcedirs = .
+# where your header files are (probably in the same place as source)
+headerdirs = .
+# where you store images that are used in your qdoc comments
+imagedirs = .
+
+# what kind of sources should be processed
+sources.fileextensions = "*.cpp"
+# what kind of headers should be processed
+headers.fileextensions = "*.h"
+
+# where to put the result
+outputdir = ./doc/
+# what format to use for generating documentation
+outputformats = HTML

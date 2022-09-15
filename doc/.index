@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QDOCINDEX>
+<INDEX url="" title="" version="" project="">
+    <namespace threadsafety="unspecified" name="" status="active" access="public" documented="false">
+        <class threadsafety="unspecified" name="Comp" href="comp.html" status="active" access="public" location="comp.h" filepath="/home/sigorut/Qt5.12.12/proj/PFMDLib1/comp.h" lineno="5">
+            <function threadsafety="unspecified" name="Comp" fullname="Comp::Comp" href="comp.html#Comp" status="active" access="public" location="comp.h" filepath="/home/sigorut/Qt5.12.12/proj/PFMDLib1/comp.h" lineno="8" virtual="non" meta="constructor" const="false" static="false" overload="false" delete="false" default="false" final="false" override="false" type="" signature="Comp()"/>
+            <function threadsafety="unspecified" name="max" fullname="Comp::max" href="comp.html#max-1" status="active" access="public" location="comp.h" filepath="/home/sigorut/Qt5.12.12/proj/PFMDLib1/comp.h" lineno="12" virtual="non" meta="plain" const="false" static="false" overload="false" delete="false" default="false" final="false" override="false" type="double" signature="double max(double x, double y)">
+                <parameter type="double" name="x" default=""/>
+                <parameter type="double" name="y" default=""/>
+            </function>
+            <function threadsafety="unspecified" name="min" fullname="Comp::min" href="comp.html#min-1" status="active" access="public" location="comp.h" filepath="/home/sigorut/Qt5.12.12/proj/PFMDLib1/comp.h" lineno="11" virtual="non" meta="plain" const="false" static="false" overload="false" delete="false" default="false" final="false" override="false" type="double" signature="double min(double x, double y)">
+                <parameter type="double" name="x" default=""/>
+                <parameter type="double" name="y" default=""/>
+            </function>
+            <function threadsafety="unspecified" name="max" fullname="Comp::max" href="comp.html#max" status="active" access="public" location="comp.h" filepath="/home/sigorut/Qt5.12.12/proj/PFMDLib1/comp.h" lineno="10" virtual="non" meta="plain" const="false" static="false" overload="false" delete="false" default="false" final="false" override="false" type="int" signature="int max(int x, int y)">
+                <parameter type="int" name="x" default=""/>
+                <parameter type="int" name="y" default=""/>
+            </function>
+            <function threadsafety="unspecified" name="min" fullname="Comp::min" href="comp.html#min" status="active" access="public" location="comp.h" filepath="/home/sigorut/Qt5.12.12/proj/PFMDLib1/comp.h" lineno="9" virtual="non" meta="plain" const="false" static="false" overload="false" delete="false" default="false" final="false" override="false" type="int" signature="int min(int x, int y)">
+                <parameter type="int" name="x" default=""/>
+                <parameter type="int" name="y" default=""/>
+            </function>
+        </class>
+        <class threadsafety="unspecified" name="TestClass" href="testclass.html" status="internal" access="private" location="testclass.h" filepath="/home/sigorut/Qt5.12.12/proj/PFMDLib1/testclass.h" lineno="7">
+            <function threadsafety="unspecified" name="test_max" fullname="TestClass::test_max" href="testclass.html#test_max" status="active" access="private" location="testclass.h" filepath="/home/sigorut/Qt5.12.12/proj/PFMDLib1/testclass.h" lineno="15" virtual="non" meta="plain" const="false" static="false" overload="false" delete="false" default="false" final="false" override="false" type="void" signature="void test_max()"/>
+            <function threadsafety="unspecified" name="test_min" fullname="TestClass::test_min" href="testclass.html#test_min" status="active" access="private" location="testclass.h" filepath="/home/sigorut/Qt5.12.12/proj/PFMDLib1/testclass.h" lineno="16" virtual="non" meta="plain" const="false" static="false" overload="false" delete="false" default="false" final="false" override="false" type="void" signature="void test_min()"/>
+        </class>
+        <namespace threadsafety="unspecified" name="Ui" href="ui.html" status="internal" access="private" location="mainwindow.h" filepath="/home/sigorut/Qt5.12.12/proj/PFMDLib1/mainwindow.h" lineno="7" documented="false"/>
+    </namespace>
+</INDEX>
